@@ -1,3 +1,2 @@
-# buding
-
-### this is test file
+# algorithm
+### this is c++ algorithm program coding 
